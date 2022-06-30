@@ -1,0 +1,12 @@
+.k139 {
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content:space-around;
+        flex-wrap: wrap;
+  }
+
+
+  

@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Passion+One);
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+
+
+.app {
+    margin: 0;
+    padding: 0;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    font-family: 'Arvo';
+
+    width: 100%;
+    min-height: 98.2vh;
+  
+    background-color: rgb(32, 32, 32);
+  }
+
+  .headerr{
+    position: relative;
+    background: #333;
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: 'Passion One';
+    line-height: 1.3;
+    font-size: 25px;
+    padding-bottom: 12px;
+    line-height: 3;
+  }
